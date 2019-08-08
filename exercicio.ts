@@ -6,11 +6,9 @@ let media: number = (nota1 + nota2 + nota3) / 3
 
 console.log("A média é: " + media)
 
-if(media >= 7)
-{
+if(media >= 7) {
     console.log("APROVADO MANN ")
 }
-else
-{
+else {
     console.log("REPROVADO BROO ")
 }
